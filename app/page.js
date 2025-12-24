@@ -201,7 +201,7 @@ const Benefits = () => (
           />
           <div className="absolute bottom-0 left-0 right-0 p-8 bg-gradient-to-t from-green-950 to-transparent">
             <div className="bg-white/10 backdrop-blur-md p-6 rounded-2xl border border-white/10">
-              <p className="text-white italic">"The freshest mushrooms I've found in Bihar. The quality from Sitamarhi Farm is unmatched."</p>
+              <p className="text-white italic">&quot;The freshest mushrooms I&apos;ve found in Bihar. The quality from Sitamarhi Farm is unmatched.&quot;</p>
               <p className="text-lime-400 mt-2 font-bold">- Local Restaurant Chef</p>
             </div>
           </div>
